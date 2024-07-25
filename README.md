@@ -12,7 +12,7 @@
   <img src="https://github.com/MyFreds/MyTime/blob/main/icon.png" alt="Logo" width="80" height="80">
   <h3>MyTime</h3>
   <p align="center">
-    Control your own in-game time to match your preferred gameplay.
+    Control your own in-game time to match your preferred gameplay
 
 
 [View in Poggit](https://poggit.pmmp.io/ci/MyFreds/MyTime/MyTime) · [Report a bug](https://github.com/MyFreds/Mytime/issues)
