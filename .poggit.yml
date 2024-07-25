@@ -1,0 +1,11 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/MyFreds/MyTime
+build-by-default: true
+branches:
+- main
+projects:
+  MyTime:
+    path: ""
+    libs:
+      - src: ACM-PocketMine-MP/Commando/Commando
+        version: ^3.2.1
+...
