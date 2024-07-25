@@ -8,4 +8,6 @@ projects:
     libs:
       - src: ACM-PocketMine-MP/Commando/Commando
         version: ^3.2.1
+      - src: Muqsit/SimplePacketHandler/SimplePacketHandler
+        version: ^0.1.4
 ...
