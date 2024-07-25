@@ -3,7 +3,6 @@ version: 1.0.0
 main: Fred\MyTime\Main
 api: 5.3.0
 author: Fred
-virion: [Commando]
 
 permissions:
   mytime.command.mtime:
