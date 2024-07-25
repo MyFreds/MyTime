@@ -1,0 +1,9 @@
+name: MyTime
+version: 1.0.0
+main: Fred\MyTime\Main
+api: 5.0.0
+author: Fred
+
+permissions:
+  mytime.command.mtime:
+    default: true
