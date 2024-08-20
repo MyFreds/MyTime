@@ -25,7 +25,7 @@ class Main extends PluginBase implements Listener {
             PacketHooker::register($this);
         }
         
-        $this->getServer()->getCommandMap()->register("mtime", new MyTimeCommand($this, "mtime", "Change personal time"));
+        $this->getServer()->getCommandMap()->register("MyTime", new MyTimeCommand($this, "mtime", "Change personal time"));
         
         $packetMonitor = SimplePacketHandler::createInterceptor($this);
         $packetMonitor->interceptOutgoing(function (SetTimePacket $packet, NetworkSession $session): bool {
